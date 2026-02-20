@@ -1,0 +1,31 @@
+order_id,order_date,city,category,model,revenue,profit
+1001,2025-01-01,Mumbai,Sports,Apache RR 310,180000,25000
+1002,2025-01-16,Delhi,Commuter,Splendor Plus,75000,8000
+1003,2025-01-31,Pune,Electric,Ola S1,120000,15000
+1004,2025-02-15,Bangalore,Sports,KTM Duke 390,280000,42000
+1005,2025-03-02,Chennai,Commuter,Shine 125,85000,9000
+1006,2025-03-17,Kolkata,Electric,Ather 450X,140000,18000
+1007,2025-04-01,Hyderabad,Sports,Yamaha R15,170000,22000
+1008,2025-04-16,Ahmedabad,Commuter,HF Deluxe,70000,7000
+1009,2025-05-01,Jaipur,Electric,Ampere Magnus,95000,10000
+1010,2025-05-16,Lucknow,Sports,Kawasaki Ninja,350000,55000
+1011,2025-05-31,Mumbai,Sports,Apache RR 310,180000,25000
+1012,2025-06-15,Delhi,Commuter,Splendor Plus,75000,8000
+1013,2025-06-30,Pune,Electric,Ola S1,120000,15000
+1014,2025-07-15,Bangalore,Sports,KTM Duke 390,280000,42000
+1015,2025-07-30,Chennai,Commuter,Shine 125,85000,9000
+1016,2025-08-14,Kolkata,Electric,Ather 450X,140000,18000
+1017,2025-08-29,Hyderabad,Sports,Yamaha R15,170000,22000
+1018,2025-09-13,Ahmedabad,Commuter,HF Deluxe,70000,7000
+1019,2025-09-28,Jaipur,Electric,Ampere Magnus,95000,10000
+1020,2025-10-13,Lucknow,Sports,Kawasaki Ninja,350000,55000
+1021,2025-10-28,Mumbai,Sports,Apache RR 310,180000,25000
+1022,2025-11-12,Delhi,Commuter,Splendor Plus,75000,8000
+1023,2025-11-27,Pune,Electric,Ola S1,120000,15000
+1024,2025-12-12,Bangalore,Sports,KTM Duke 390,280000,42000
+1025,2025-12-27,Chennai,Commuter,Shine 125,85000,9000
+1026,2026-01-11,Kolkata,Electric,Ather 450X,140000,18000
+1027,2026-01-26,Hyderabad,Sports,Yamaha R15,170000,22000
+1028,2026-02-10,Ahmedabad,Commuter,HF Deluxe,70000,7000
+1029,2026-02-25,Jaipur,Electric,Ampere Magnus,95000,10000
+1030,2026-03-12,Lucknow,Sports,Kawasaki Ninja,350000,55000
